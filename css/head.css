@@ -1,0 +1,40 @@
+.header-left {
+  display: flex;
+  gap: 20px;
+}
+a {
+  text-decoration: none;
+  color: wheat;
+}
+.header {
+  display: flex;
+  justify-content: center;
+}
+.header-content {
+  display: flex;
+  gap: 50px;
+}
+.head {
+  position: fixed;
+  width: 100%;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  background: #08546c;
+}
+.header-right button {
+  border: none;
+  border-radius: 25px;
+  padding: 15px 35px 15px 35px;
+  background: #145e76;
+  color: white;
+}
+.header-right button:hover {
+  transition: all 0.3s;
+  background-color: burlywood;
+  color: black;
+}
+.header-right-btn {
+  display: none;
+  background: transparent;
+  border: none;
+}

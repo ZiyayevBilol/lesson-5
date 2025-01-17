@@ -1,0 +1,70 @@
+@media (max-width: 640px) {
+  .header-btn {
+    display: none;
+  }
+  .header-right-btn {
+    display: block;
+  }
+}
+@media (max-width: 510px) {
+  .header-content {
+    display: none;
+  }
+  .home-section-left {
+    text-align: center;
+  }
+  .home-section-left h1 {
+    font-size: 40px;
+  }
+}
+@media (max-width: 730px) {
+  .home-section {
+    flex-wrap: wrap;
+  }
+  .portfoio-section {
+    flex-wrap: wrap;
+    text-align: center;
+  }
+  .design-section {
+    flex-wrap: wrap;
+    text-align: center;
+  }
+  .Portfolio h1 {
+    text-align: center;
+  }
+  .Portfolio p {
+    text-align: center;
+  }
+  .footer-content {
+    flex-wrap: wrap;
+    text-align: center;
+  }
+}
+@media (max-width: 600px) {
+  .statistic-section {
+    flex-wrap: wrap;
+    text-align: center;
+    gap: 30px;
+  }
+}
+@media (max-width: 430px) {
+  .statistic-section p {
+    margin-bottom: 20px;
+    margin-top: 20px;
+  }
+  .Services h3 {
+    text-align: center;
+    font-size: 50px;
+  }
+}
+@media (max-width: 810px) {
+  .Services-section {
+    flex-wrap: wrap;
+  }
+}
+@media (max-width: 900px) {
+  .company-section {
+    flex-wrap: wrap;
+    text-align: center;
+  }
+}

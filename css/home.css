@@ -1,0 +1,78 @@
+.home {
+  background: #08546c;
+  padding-bottom: 155px;
+  padding-top: 100px;
+}
+.home-section {
+  display: flex;
+}
+.home-btn {
+  border: none;
+  border-radius: 30px;
+  padding: 16px 30px 16px 30px;
+  background-color: #145e76;
+  font-family: Schoolbell;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 33.42px;
+  color: white;
+}
+.home-btn:hover {
+  transition: all 0.5s;
+  background-color: cyan;
+  color: black;
+  margin-bottom: 10px;
+}
+.home-section-right img {
+  width: 100%;
+}
+.home-section-left h1 {
+  margin-top: 40px;
+  margin-bottom: 30px;
+  font-family: Inter;
+  font-size: 64px;
+  font-weight: 700;
+  line-height: 80px;
+  color: white;
+  max-width: 537px;
+}
+.home-section-left p {
+  font-family: Inter;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 28.8px;
+  color: #849499;
+  max-width: 511px;
+}
+.home-btn-1 {
+  border: none;
+  border-radius: 25px;
+  color: white;
+  background: #ffa63a;
+  font-family: Inter;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 28.8px;
+  padding: 16px 35px 16px 35px;
+  margin-top: 50px;
+  cursor: pointer;
+}
+.home-btn-1:hover {
+  transition: all 0.5s;
+  color: black;
+  background: gray;
+}
+.home-btn-2 {
+  border: none;
+  color: white;
+  background-color: #08546c;
+  font-family: Inter;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 28.8px;
+  cursor: pointer;
+  margin-top: 20px;
+}
+.home-section-btn {
+  gap: 50px;
+}

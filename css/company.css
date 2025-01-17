@@ -1,0 +1,29 @@
+.company {
+  background-color: #08546c;
+  padding-top: 102px;
+  padding-bottom: 102px;
+}
+.company-section {
+  display: flex;
+}
+.company-section-right p {
+  margin-top: 32px;
+  margin-bottom: 33px;
+  max-width: 585px;
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 25.6px;
+  color: #ffffff;
+}
+.company-section-right a {
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 25.6px;
+  text-decoration: none;
+  color: #aabfc6;
+}
+.company-section-left img {
+  width: 100%;
+}

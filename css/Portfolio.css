@@ -1,0 +1,73 @@
+.portfoio-section {
+  display: flex;
+}
+.portfoio-section-left h2 {
+  font-family: Inter;
+  font-size: 30px;
+  font-weight: 600;
+  line-height: 28.8px;
+  color: #08546c;
+  margin-top: 40px;
+  margin-bottom: 10px;
+}
+.portfoio-section-left p {
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 400;
+  color: #757575;
+  max-width: 426px;
+}
+.portfoio-section-left a {
+  font-family: Inter;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 25.6px;
+  color: #08546c;
+}
+.portfoio-section-right h2 {
+  font-family: Inter;
+  font-size: 30px;
+  font-weight: 600;
+  line-height: 28.8px;
+  color: #08546c;
+  margin-top: 40px;
+  margin-bottom: 10px;
+}
+.portfoio-section-right p {
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 400;
+  color: #757575;
+  max-width: 426px;
+}
+.portfoio-section-right a {
+  font-family: Inter;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 25.6px;
+  color: #ffa800;
+}
+.Portfolio h1 {
+  font-family: Inter;
+  font-size: 45px;
+  font-weight: 600;
+  line-height: 56.25px;
+  color: #08546c;
+  max-width: 469px;
+}
+.Portfolio p {
+  font-family: Inter;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 28.8px;
+  max-width: 569px;
+  color: #757575;
+  margin-top: 10px;
+  margin-bottom: 60px;
+}
+.portfoio-section-left img {
+  width: 100%;
+}
+.portfoio-section-right img {
+  width: 100%;
+}
