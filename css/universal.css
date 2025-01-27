@@ -13,3 +13,19 @@
 html {
   scroll-behavior: smooth;
 }
+.back-to-top {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background-color: royalblue;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  cursor: pointer;
+  display: none;
+  font-size: 16px;
+}
+.back-to-top:hover {
+  background-color: #0056b3;
+}
